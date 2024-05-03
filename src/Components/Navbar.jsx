@@ -8,6 +8,7 @@ const Navbar = () => {
     console.log("clicked");
     setOpen(!open)
   }
+  
   return (
     <nav className="mt-5">
       <div className="md:flex justify-between w-5/6 md:max-w-7xl mx-auto">
