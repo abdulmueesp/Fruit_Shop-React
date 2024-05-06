@@ -11,7 +11,7 @@ function App() {
       <Filter />
       <Items />
       <SeasonSpecial />
-    
+      <Footer />
     </>
   );
 }
