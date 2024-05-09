@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const Navbar = () => {
 
-  const [open,setOpen]=useState(false)
+  const [open,setOpen]=useState(false);
 
   const click=()=>{
     console.log("clicked");
